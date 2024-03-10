@@ -2,11 +2,10 @@
 | ------------- | ------------- |
 
 <div align="center">
-
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello,I'm QuanYue(%22Hello%2C%20World%22)/>
+    <a href="https://github.com/yuequanfighting">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,I'm Quan Yue." />
     </a>
   </div>
   
